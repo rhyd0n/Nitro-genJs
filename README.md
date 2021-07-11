@@ -8,7 +8,7 @@ Note: not all codes will be valid, because it is not checking if they are valid 
 
 # ~~Website *[Coming soon]*~~
 Here is the site. nitrogen.c0m.repl.co
-
+ 
 
 
 Or : freenitrogen.github.io
